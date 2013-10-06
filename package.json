@@ -1,0 +1,21 @@
+{
+	"name": "libsyscalls",
+	"description": "support for missing syscalls in various languages",
+	"main": "./libsyscalls",
+	"version": "0.0.1",
+	"author": "Andrew Darqui (http://github.com/adarqui)",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/adarqui/libsyscalls.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT"
+		}
+	],
+	"bugs": {
+		"url" : "http://github.com/adarqui/libsyscalls/issues"
+	},
+	"dependencies": {
+	}
+}
